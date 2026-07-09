@@ -244,4 +244,4 @@ retail-demand-ai/
 
 Built as an end-to-end portfolio project demonstrating the full data lifecycle: raw data → database engineering → machine learning → business intelligence.
 
-Connect with me on [LinkedIn] — happy to walk through the technical decisions behind this project.
+Connect with me on [https://www.linkedin.com/in/garvit-gupta-87875a226/] — happy to walk through the technical decisions behind this project.
