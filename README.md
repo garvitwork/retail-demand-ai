@@ -83,9 +83,9 @@ This isn't a toy dataset exercise — it mirrors a real operational workflow use
                              │
                              ▼
                   ┌────────────────────────────┐
-                  │  MySQL: daily_demand_       │
-                  │  features                   │
-                  └──────────┬───────────────────┘
+                  │  MySQL: daily_demand_      │
+                  │  features                  │
+                  └──────────┬─────────────────┘
                              │
                              ▼
                   ┌───────────────────────┐
@@ -96,17 +96,17 @@ This isn't a toy dataset exercise — it mirrors a real operational workflow use
                              │
                              ▼
                   ┌───────────────────────┐
-                  │  MySQL: demand_        │
-                  │  forecast              │
+                  │  MySQL: demand_       │
+                  │  forecast             │
                   └──────────┬────────────┘
                              │
                              ▼
                   ┌───────────────────────┐
-                  │  Power BI              │
-                  │  - Star schema model   │
-                  │  - DAX measures        │
-                  │  - AI visuals          │
-                  │  - 3 dashboard pages   │
+                  │  Power BI             │
+                  │  - Star schema model  │
+                  │  - DAX measures       │
+                  │  - AI visuals         │
+                  │  - 3 dashboard pages  │
                   └───────────────────────┘
 ```
 
