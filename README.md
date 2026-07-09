@@ -162,7 +162,7 @@ This isn't a toy dataset exercise — it mirrors a real operational workflow use
 
 | Metric | Value |
 |---|---|
-| Forecast Accuracy (1 − WAPE) | ~80%+ |
+| Forecast Accuracy (1 − WAPE) | 87%+ |
 | Products Forecasted | Top-selling SKUs by volume |
 | Forecast Granularity | Weekly, per product |
 | Restock Detection Logic | Predicted demand > 1.2 × rolling average |
