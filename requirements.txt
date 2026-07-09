@@ -1,0 +1,11 @@
+pandas 
+numpy 
+xgboost 
+scikit-learn 
+openpyxl 
+matplotlib
+sqlalchemy
+dotenv
+pymysql
+xgboost
+shap
